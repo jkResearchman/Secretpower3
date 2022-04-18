@@ -1,0 +1,24 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 18 Apr 2022 16:59:25 at https://saidit.net/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://saidit.net/ -O1 "C:\My Web Sites\Secretpower" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:01:51	Error: 	"Not Found" (404) at link https://saidit.net/^/live/? (from https://saidit.net/)
+17:01:51	Error: 	"Not Found" (404) at link https://saidit.net/message/ (from https://saidit.net/)
+17:01:51	Warning: 	Found for https://saidit.net/wiki/?
+17:01:51	Warning: 	File has moved from https://saidit.net/wiki/? to https://saidit.net/wiki/index
+17:01:52	Warning: 	Moved Permanently for https://saidit.net/m/
+17:01:52	Warning: 	File has moved from https://saidit.net/m/ to https://saidit.net/s/pics/comments/m/4_days_since_i_saw_going_images_selectronics_boat/
+17:01:52	Error: 	"Not Found" (404) at link https://saidit.net/^/r/[^/]+/about/ (from https://saidit.net/)
+17:03:46	Error: 	"Upgrade Required" (426) at link https://saidit.net/s/AskSaidIt/ (from https://saidit.net/)
+17:03:47	Error: 	"Upgrade Required" (426) at link https://saidit.net/s/bitcoin/ (from https://saidit.net/)
+17:03:48	Error: 	"Upgrade Required" (426) at link https://saidit.net/s/books/ (from https://saidit.net/)
+17:14:14	Error: 	"Upgrade Required" (426) at link https://saidit.net/s/corruption/ (from https://saidit.net/)
+17:14:14	Error: 	"Upgrade Required" (426) at link https://saidit.net/s/cryptocurrency/ (from https://saidit.net/)
+17:18:40	Error: 	"Upgrade Required" (426) at link https://saidit.net/s/dogecoin/ (from https://saidit.net/)
+17:20:55	Error: 	"Upgrade Required" (426) at link https://saidit.net/s/Earth/ (from https://saidit.net/)
+17:23:37	Error: 	"Upgrade Required" (426) at link https://saidit.net/s/Europe/ (from https://saidit.net/)
+17:23:37	Error: 	"Upgrade Required" (426) at link https://saidit.net/s/finance/ (from https://saidit.net/)
